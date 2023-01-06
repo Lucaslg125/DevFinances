@@ -1,1 +1,2 @@
 # devFinances
+# Automação em javaScript.
